@@ -24,7 +24,7 @@ In this dataset, **rentals** represents the label (the *y* value) our model must
 let's add a new column named **day** to the dataframe by extracting the day component from the existing **dteday** column. The new column represents the day of the month from 1 to 31.
 
 
-![Rental Distribution](https://github.com/akhila66/Bike-rental-prediction/new/master/Rental Distribution.PNG?raw=true)
+![Rental Distribution](https://github.com/akhila66/Bike-rental-prediction/blob/master/Rental%20Distribution.PNG?raw=true)
 
 The plots show that the number of daily rentals ranges from 0 to just over 3,400. However, the mean (and median) number of daily rentals is closer to the low end of that range, with most of the data between 0 and around 2,200 rentals. The few values above this are shown in the box plot as small circles, indicating that they are *outliers* - in other words, unusually high or low values beyond the typical range of most of the data.
 
