@@ -1,5 +1,5 @@
 # Bike-rental-prediction
-we'll focus on *regression*, using an example based on a real study in which data for a bicycle sharing scheme was collected and used to predict the number of rentals based on seasonality and weather conditions.
+we'll focus on *regression* and Creating pipelines for preprocessing and modeling, using an example based on a real study in which data for a bicycle sharing scheme was collected and used to predict the number of rentals based on seasonality and weather conditions.
 
 
 The data consists of the following columns:
