@@ -60,9 +60,9 @@ The linear regression algorithm we used to train the model has some predictive c
 - **Ensemble algorithms**: Algorithms that combine the outputs of multiple base algorithms to improve generalizability.
 
 - *LinearRegression*
-    MSE: 201972.55947035592
-    RMSE: 449.4135728595165
-    R2: 0.6040454736919191
+    -MSE: 201972.55947035592
+    -RMSE: 449.4135728595165
+    -R2: 0.6040454736919191
 
 - *lasso*
     MSE: 201155.70593338404
